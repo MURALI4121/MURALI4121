@@ -1,16 +1,12 @@
-Hi, I'm Monica
+👋 Hi, I’m @ MURALI
 
-<img src="https://raw.githubusercontent.com/Menica/Monica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-
-
+![CCC](https://user-images.githubusercontent.com/85218666/187044280-d54cbefd-75b0-478a-a940-3f5038eef283.jpg)
 
 
 
 
 
-- 👋 Hi, I’m @ MURALI
-- 👀 I’m interested in ...Software Development 
-- 🌱 I’m currently learning ... Programming
+
 
 <!---
 MURALI4121/MURALI4121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
