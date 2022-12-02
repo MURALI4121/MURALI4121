@@ -1,3 +1,6 @@
+![Screenshot 2022-12-02 144951](https://user-images.githubusercontent.com/85218666/205325355-2f3b4d7f-1cac-4268-9a03-6eccf128fa8b.jpg)
+
+
 <h1 align="center">Hi 👋, I'm K S MURALI</h1>
 <h3 align="center">A Innovative Full Stack developer with a passion for developing scalable web applications and work across the full stack.</h3>
 
